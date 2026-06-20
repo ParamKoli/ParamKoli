@@ -1,5 +1,5 @@
 <h1 align="center">Hello Beautiful, I'm Param Koli</h1>
-<h3 align="center">A passionate Artificial Intelligence and Data Scientist from India</h3>
+<h3 align="center">A passionate Programmer and a Nerd from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramkoli&label=Profile%20views&color=0e75b6&style=flat" alt="paramkoli" /> </p>
 
